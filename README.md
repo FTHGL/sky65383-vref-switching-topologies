@@ -1,2 +1,2 @@
 # sky65383-vref-switching-topologies
-Reference voltage switching topologies and control circuit design for the SKY65383 RF front-end module. Includes simulation data, MOSFET selection analysis, and comparison of different implementations.
+Comparative documentation of VREF switching topologies for the SKY65383 module, evaluated within the scope of an ongoing RF hardware project.
